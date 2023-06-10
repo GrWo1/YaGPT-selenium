@@ -34,6 +34,7 @@ pip install -r requirements.txt
 chromedriver_path = "chromedriver"
 ```
 В моем проекте лежит файл-драйвер chromedriver (для MacOS arm).
+
 6. Переименовываем env.config в .env
 Это файл в котором хранятся данные для подключения к БД. Заполняем своими и можно запускать проект.
 ```python
